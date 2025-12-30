@@ -24,6 +24,14 @@ Key adjustments needed if you want to use:
 
 ---
 
+Required Frameworks
+
+1. FirebaseCore
+2. FirebaseFirestore
+3. FirebaseMessaging
+
+---
+
 Misc.
 
 1. Sending real time notification (notifying while the app is not running) is a feature exclusive for apple developer accounts. Since I do not possess an apple developer account, this app can only send notifications while the app is running.
